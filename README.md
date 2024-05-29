@@ -1,1 +1,1 @@
-# OpenGLFish
+# CS 535 final project
