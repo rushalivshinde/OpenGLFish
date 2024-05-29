@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Final_Project.cpp
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(83,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(84,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(87,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(88,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(91,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(92,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(100,16): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(101,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(104,16): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(105,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(108,16): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(109,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(118,16): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Final_Project.cpp(119,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Lab2.vcxproj -> C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Debug\Final project.exe
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Debug\Final project.exe
+  1 File(s) copied
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Fragment_fs.glsl
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Vertex_vs.glsl
+          2 file(s) copied.
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\Assimp32.dll
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\FreeImage.dll
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\glew32.dll
+  C:\Users\sathv\OneDrive\Desktop\CGT 520\Lab3\glfw3.dll
+          4 file(s) copied.

@@ -1,0 +1,43 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  InitShader.cpp
+  Final_Project.cpp
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(30,36): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(30,40): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(88,13): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(89,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(92,13): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(93,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(96,13): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(97,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(104,14): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(105,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(108,14): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(109,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(112,14): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(113,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(122,14): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Rushali\Downloads\CS 535 final project\Final_Project.cpp(123,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  LoadMesh.cpp
+C:\Users\Rushali\Downloads\CS 535 final project\LoadMesh.cpp(178,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rushali\Downloads\CS 535 final project\LoadMesh.cpp(287,22): warning C4018: '<': signed/unsigned mismatch
+  LoadTexture.cpp
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\Rushali\Downloads\CS 535 final project\Debug\Final project.exe
+  C:\Users\Rushali\Downloads\CS 535 final project\Debug\Final project.exe
+  1 File(s) copied
+  C:\Users\Rushali\Downloads\CS 535 final project\Fragment_fs.glsl
+  C:\Users\Rushali\Downloads\CS 535 final project\Vertex_vs.glsl
+          2 file(s) copied.
+  C:\Users\Rushali\Downloads\CS 535 final project\Assimp32.dll
+  C:\Users\Rushali\Downloads\CS 535 final project\FreeImage.dll
+  C:\Users\Rushali\Downloads\CS 535 final project\glew32.dll
+  C:\Users\Rushali\Downloads\CS 535 final project\glfw3.dll
+          4 file(s) copied.
